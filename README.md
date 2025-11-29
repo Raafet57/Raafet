@@ -1,28 +1,22 @@
-## Identity
+## Raafet Choukri
 
-Senior business analyst and product manager in payments, based in Singapore. I specialise in SwiftRef, ISO 20022 reference data, routing logic, validation engines, and Python-based data services, with an active interest in regulated financial infrastructure, tokenisation initiatives, and compliance tooling.
+I work on crossborder payments, reference data and rule-driven validation.  
+I build small Python tools for routing logic, ISO 20022 readiness and data quality.
 
-## What I Build
+### What I focus on
+- BIC, IBAN, LEI and clearing-code mapping
+- Purpose-code rules and regulatory logic
+- ISO 20022 payload structure and hybrid address parsing
+- SSI routing, reachability and cutoff windows
+- Deterministic QC checks, ETL pipelines and small REST/Streamlit demos
 
-- Data-quality pipelines (Python, SQL, ETL, checksums, QC dashboards)
-- ISO 20022 tools (payload validators, PPC rulesets, address-conversion prototypes)
-- SSI and routing engines (graph search, cut-off management, reachability logic)
-- vLEI and digital-identifier prototypes
-- Streamlit front ends for demos and internal tools
+### Current work
+- Corridor ranking engine (Python + SQLite)
+- Digital SSI prototype (identifier mapping for wallet rails)
+- ISO 20022 address converter
+- Purpose-code rules engine
+- EDS onboarding flow microservice
 
-## Active Projects
-
-- **Corridor Ranking Engine** – Python + SQLite optimiser for crossborder routes.
-- **Digital SSI** – Mapping SwiftRef fields to wallet coordinates and on-chain identifiers.
-- **Payment Purpose Code Rules** – Unified global code lists and regulatory rules engine.
-- **EDS Onboarding Flow** – Sample microservice and GUI simulation for EPC VOP onboarding.
-- **ISO 20022 Address Converter** – Deterministic hybrid-address parser.
-
-## Background
-
-Senior Business Consultant at SWIFT Singapore driving SwiftRef reference-data governance, payment identifier design, functional specifications, and API-led onboarding; previously Team Manager in Malaysia scaling SSI quality controls and automation; earlier career in Volkswagen fleet programmes covering vendor management, bid orchestration, and audit-heavy delivery.
-
-## Contact
-
-- Email: raafet.ch@gmail.com  
-- Location: Singapore
+### Contact
+raafet.ch@gmail.com  
+Singapore
